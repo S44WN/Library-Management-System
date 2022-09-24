@@ -13,8 +13,7 @@
 - [Setup](#setup)
 - [Usage](#usage)
 - [Project Status](#project-status)
-- [Room for Improvement](#room-for-improvement)
-- [Acknowledgements](#acknowledgements)
+- [Contributing](#contributing)
 - [Contact](#contact)
 - [License](#license)
 
@@ -97,6 +96,10 @@ Clone or download the code and run with the above mentioned programs and librari
 ## Project Status
 
 Project is : _no longer being worked on_. That being said, I would definitely welcome the improvements and features.
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Contact
 
