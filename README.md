@@ -84,7 +84,7 @@ Some awesome features are:
 To run this project, install Python, SQL and pip install tkinter, pillow, pymysql
 
 ```bash
-pip install tkinter
+pip install tk
 pip install pillow
 pip install pymysql
 ```
